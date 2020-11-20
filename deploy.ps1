@@ -1,8 +1,3 @@
-# DISCLAIMER: There are no warranties or support provided for this script. Use at you're own discretion. Andy Syrewicze and/or Altaro Software are not liable for any
-# damage or problems that misuse of this script may cause.
-
-# Script is Written by Andy Syrewicze - Tech. Evangelist with Altaro Software and is free to use as needed within your organization.
-
 # This Script is Primarily a Deployment Script. It will first deploy a template from your vSphere environment, apply a customization specification, and then install and configure Active
 # Directory Domain Services on one VM, and the File Services on another. Additionally the file server will be a member of the newly deployed VM, a new administrative user account will
 # be created and a file share will be provisioned on the new file server. 
